@@ -1,7 +1,6 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 var password = document.querySelector("#password");
-
 //Data values
 var upperLetter = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 var lowerLetter = "abcdefghijklmnopqrstuvwxyz".split("");
